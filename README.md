@@ -1,4 +1,4 @@
-# Predicting Client Conversions with Python
+# Predicting Client Conversions with Scikit-learn
 
 
 ---
