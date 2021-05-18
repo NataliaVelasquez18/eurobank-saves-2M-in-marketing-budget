@@ -29,17 +29,13 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 
 ## Executive Summary:
 
-* There is a trade-off between client conversions, cost reduction, and the customer experience
+* By replacing the current model the bank might liberate about 70% of the contact center resources while maintaining a similar conversion rate
 
-* Even though the current predictive model gets 719 more client conversions it might impact  significantly the contact center costs and the customer experience
+* The new predictive model can help the bank to maintain the customer experience by avoiding  27,244 of the current clients receiving unwanted calls
 
-* By replacing the current model the bank might reduce the contact center’s resources by ~70%
+* Mondays was the least ideal day of the week to generate client conversions compared to the rest of the weekdays.  The best days for contacting clients were Thursday, Tuesday, and Wednesday respectively.
 
-* The new predictive model can help the bank to enhance the customer experience by avoiding  27,244 of our clients receiving unwanted calls
-
-* Mondays is the least ideal day of the week to generate client conversions.  The best days of the week are Thursday, Tuesday, and Wednesday respectively
-
-* Clients who converted in previous marketing campaigns showed a great rate of conversion for the current campaign
+* Clients who have converted in previous marketing campaigns might be significantly more receptive to a new marketing campaign 
 
 ---
 
@@ -49,7 +45,8 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 
 * The current model generates  719 more conversions but it also generates that 27,244 of our clients might receive unwanted calls affecting the customer experience
 
-* The new model proposes a more efficient approach of utilizing the resources of the contact center and might reduce cost by 70%
+* The new model proposes a more efficient approach.  Approximately 70% of the contact center resources might be liberated to execute other campaigns
+
 
 ---
 
