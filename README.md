@@ -60,9 +60,7 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 
 * Prioritize calling clients who subscribed in past marketing campaigns in order to increase conversions
 
-* Investigate outliers and its causes and explore the possibility of removing them
-
-* Research unknown data and the option of replacing it
+* Investigate outliers and unknown data its causes and explore the possibility of replacing them
 
 
 ---
