@@ -29,11 +29,11 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 
 ## Executive Summary:
 
-* By replacing the current model the bank might liberate about 70% of the contact center resources while maintaining a similar conversion rate
+* By replacing the current model the bank will reduce by 68% of the current marketing efforts invested in phone marketing campaigns.
 
-* The new predictive model can help the bank to maintain the customer experience by avoiding  27,244 of the current clients receiving unwanted calls
+* The new predictive model can help the bank to enhance the customer experience by avoiding  27,244 of the current clients receiving unwanted calls
 
-* Mondays was the least ideal day of the week to generate client conversions compared to the rest of the weekdays.  The best days for contacting clients were Thursday, Tuesday, and Wednesday respectively.
+* Monday and Friday are the least ideal days of the week to generate client conversions compared to the rest of the weekdays.  The best days for contacting clients were Thursday, Tuesday, and Wednesday respectively
 
 * Clients who have converted in previous marketing campaigns might be significantly more receptive to a new marketing campaign 
 
