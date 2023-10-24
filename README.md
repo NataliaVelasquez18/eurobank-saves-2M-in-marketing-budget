@@ -1,8 +1,12 @@
 # Eurobank Saves 2M+ in Marketingn Budget with Machine Learning
 
+---
+
 ## Business Problem
 
 The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit.  It currently uses a predictive model to help them determine, in advance, clients who will be receptive to such marketing campaigns.  The bank wants to evaluate the current model, it's implications, and determine **whether or not the current model should be replaced**.
+
+---
 
 ## Executive Summary
 
@@ -14,7 +18,7 @@ The European Bank uses telemarketing campaigns to promote their product Bank Ter
 
 * Clients who have converted in previous marketing campaigns might be significantly more receptive to a new marketing campaign
 
-
+---
 
 ## Backgroung
 
@@ -32,6 +36,7 @@ The solution is to build a machine learning model that takes client attribuetes 
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/2.png" width="350" height="580" />
 
+---
 
 ## Overview of Approach
 
@@ -44,6 +49,8 @@ The solution is to build a machine learning model that takes client attribuetes 
 5. Recommend whether or not Eurobank should change the current model
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/3.png" width="510" height="300" />
+
+---
 
 ## Analysis
 
@@ -71,35 +78,18 @@ As we can see the new model proposes a more segmented approach.  It only suggest
 
 #### Accuracy
 
+*New model advantage: It is more efficient and more accurate at predicting a conversion=YES
+
+* NEW model disadvantage: It achieves 719 less client conversions
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/accuracy.png" width="700" height="350" />
 
 
 #### Client experience
 
+New model advantage: Balances in between achieving results and preserving the customer experience
+
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/savedunwantedcall.png" width="700" height="280" />
-
-
----
-
-
-## Purpose
-
-
-The purpose of this analysis is to help The European Bank to increase efficiency, enhance the customer experience, and reduce costs when executing phone marketing capaigns.
-
----
-
-
-
-
----
-
-## Executive Summary:
-
-
-
-
 
 ---
 
@@ -110,8 +100,6 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 * The current model generates  719 more conversions but it also generates 27,250 of our clients unnecessarily contacted affecting the customer experience and increasing cost
 
 * The new model proposes a more segmented and efficient approach for our marketing campaigns. We can reduce by 68% our efforts and reduce cost, increase our customer experience, and reduce opportunity costs.
-
-
 
 ---
 
@@ -130,9 +118,6 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 * Prioritize calling clients who subscribed past marketing campaigns in order to increase conversions
 
 * Investigate outliers and unknown data and its causes and explore the possibility of replacing them
-
-
-
 
 ---
 
