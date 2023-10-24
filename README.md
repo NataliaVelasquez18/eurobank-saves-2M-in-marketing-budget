@@ -1,28 +1,30 @@
 # Eurobank Saves 2M+ in Marketingn Budget with Machine Learning
 
-
----
-
 ## Business Problem
 
-The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit.  It currently uses a predictive model to help them determine, in advance, clients who will be receptive to such marketing campaigns.  The bank wants to evaluate the current model, it's implications, and determine whether or not the current model should be replaced.
+The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit.  It currently uses a predictive model to help them determine, in advance, clients who will be receptive to such marketing campaigns.  The bank wants to evaluate the current model, it's implications, and determine **whether or not the current model should be replaced**.
+
+## Executive Summary
+
+---
 
 
 ## Backgroung
 
-The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit. The campaign has two possible outcomes: either the client will subscribe or will not subscribe.
+The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit. The campaign has two possible outcomes: **either the client will subscribe or will not subscribe to the campaign**.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="550" height="550" />
 
 The challenges of a telemarketing campaign are three: 
   
-  * here are limited resources in the contact center,
-  * The campaign should be deployed fast, and w
-  * We need to make sure the client experience does not suffer.
+  * There are limited resources in the contact center when comparing against the client database.
+  * The campaign should be deployed in maximum of two months.
+  * We need to make sure the client experience does not suffer whe calling over the phone.
 
-The solution is to build a machine learning model that takes client attribuetes and helps us predict the propensity of a client to subscribe to a telemarketing campaign.
+The solution is to build a machine learning model that takes client attribuetes and helps us predict the **propensity of a client to subscribe to a telemarketing campaign**.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/2.png" width="350" height="580" />
+
 
 ## Overview of Approach
 
@@ -30,11 +32,11 @@ The solution is to build a machine learning model that takes client attribuetes 
 2. Create New Predictive Models (scikit-learn, Logistic Regression, used resampling techniques to solve class imbalance)
 3. Chose the best performing model according to the metrics (accuracy score, f1-score)
 4. Naive Random Oversampling technique gave us the best performing model
+5. Recommend whether or not Eurobank should change the current model
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/3.png" width="510" height="300" />
 
-
-
+## Analysis
 
 * This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
 
