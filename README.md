@@ -11,9 +11,12 @@ The European Bank uses telemarketing campaigns to promote their product Bank Ter
 ## Backgroung
 
 
-(https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png)
 
-<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="680" height="550" />
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="550" height="550" />
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/2.png" width="550" height="550" />
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/3.png" width="550" height="550" />
 
 * This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
 
