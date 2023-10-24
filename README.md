@@ -8,7 +8,14 @@
 The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit.  It currently uses a predictive model to help them determine, in advance, clients who will be receptive to such marketing campaigns.  The bank wants to evaluate the current model, it's implications, and determine whether or not the current model should be replaced.
 
 
+## Backgroung
 
+
+(https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png)
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="680" height="550" />
+
+* This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
 
 ---
 
