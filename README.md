@@ -1,4 +1,4 @@
-# Predicting Client Conversions with Scikit-learn
+# Eurobank Saves 2M+ in Marketingn Budget with Machine Learning
 
 
 ---
@@ -6,6 +6,9 @@
 ## Business Problem
 
 The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit.  It currently uses a predictive model to help them determine, in advance, clients who will be receptive to such marketing campaigns.  The bank wants to evaluate the current model, it's implications, and determine whether or not the current model should be replaced.
+
+
+
 
 ---
 
