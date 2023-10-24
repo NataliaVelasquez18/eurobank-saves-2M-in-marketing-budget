@@ -47,30 +47,37 @@ The solution is to build a machine learning model that takes client attribuetes 
 
 ## Analysis
 
-According to the last campaign.  The current model suggested to contact 98% of the database
+#### The current model 
+Suggested to contact 98% of the database suggesting almost no segmentation.
 
-<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/current_model.png" width="350" height="350" />
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/current_model.png" width="450" height="350" />
 
-Out of this 98% only 11% subscribed
-<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/actuals.png" width="350" height="350" />
+Out of this 98% of clients contacted, only 11% actyally subscribed.
 
-The new model
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/actuals.png" width="450" height="350" />
+
+#### The new model
 * Addresses the customer experience because it is only suggesting to contact 30% of the clients in the database
 * Reduces the bank’s efforts invested in marketing campaigns because the number of calls is reduced by a large amount
 * Reduces the opportunity cost of investing too many resources in a given campaign and allows agility in the execution
 
-<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/new_model.png" width="350" height="350" />
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/new_model.png" width="450" height="350" />
 
-currentvsnew
+#### Current vs new model
+
+As we can see the new model proposes a more segmented approach.  It only suggests to contact 30% of the database vs 98% of the current model.  This has huge business implications for the large amount of resources it can save Eurobank in the long run.
+
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/currentvsnew.png" width="700" height="350" />
 
+#### Accuracy
 
-accuracy
+
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/accuracy.png" width="700" height="350" />
 
 
-unwanted
-<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/new_model.png" width="700" height="280" />
+#### Client experience
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/savedunwantedcall.png" width="700" height="280" />
 
 
 ---
