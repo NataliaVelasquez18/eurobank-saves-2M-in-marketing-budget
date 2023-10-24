@@ -55,7 +55,7 @@ The solution is to build a machine learning model that takes client attribuetes 
 ## Analysis
 
 #### The current model 
-Suggested to contact 98% of the database suggesting almost no segmentation.
+Suggested to contact 98% of the database suggesting almost no **segmentation**.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/current_model.png" width="450" height="350" />
 
@@ -63,7 +63,7 @@ Out of this 98% of clients contacted, only 11% actyally subscribed.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/actuals.png" width="450" height="350" />
 
-#### The new model
+#### The new model: segments the database
 * Addresses the customer experience because it is only suggesting to contact 30% of the clients in the database
 * Reduces the bank’s efforts invested in marketing campaigns because the number of calls is reduced by a large amount
 * Reduces the opportunity cost of investing too many resources in a given campaign and allows agility in the execution
