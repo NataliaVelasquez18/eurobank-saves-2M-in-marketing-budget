@@ -26,13 +26,15 @@ The European Bank uses telemarketing campaigns to promote their product Bank Ter
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="550" height="550" />
 
+#### Need to segment the database
+
 The challenges of a telemarketing campaign are three: 
   
   * There are limited resources in the contact center when comparing against the client database.
   * The campaign should be deployed in maximum of two months.
   * We need to make sure the client experience does not suffer whe calling over the phone.
 
-The solution is to build a machine learning model that takes client attribuetes and helps us predict the **propensity of a client to subscribe to a telemarketing campaign**.
+The solution is to build a machine learning model that segments the database, takes client attribuetes and helps us predict the **propensity of a client to subscribe to a telemarketing campaign**.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/2.png" width="350" height="580" />
 
