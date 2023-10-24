@@ -6,7 +6,14 @@ The European Bank uses telemarketing campaigns to promote their product Bank Ter
 
 ## Executive Summary
 
----
+* By replacing the current model the bank will reduce by 68% of the current marketing efforts invested in phone marketing campaigns that represent $2.2 M
+
+* The new predictive model can help the bank to enhance the customer experience by saving  27,250 of the current clients receiving unwanted calls compared to the current model
+
+* Monday and Friday are the least ideal days of the week to generate client conversions compared to the rest of the weekdays.  The best days for contacting clients were Thursday, Tuesday, and Wednesday respectively
+
+* Clients who have converted in previous marketing campaigns might be significantly more receptive to a new marketing campaign
+
 
 
 ## Backgroung
@@ -28,6 +35,8 @@ The solution is to build a machine learning model that takes client attribuetes 
 
 ## Overview of Approach
 
+* This [Python file](https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/EDA_Machine_Learning.ipynb) contains a complete analysis and visualization of [The Eurobank dataset](https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/DSA_Data_Set.csv).
+
 1. Exploratory Data Analysis, Statistical Analysis, and Data Cleanse (Pandas, Seaborn, Matplotlib)
 2. Create New Predictive Models (scikit-learn, Logistic Regression, used resampling techniques to solve class imbalance)
 3. Chose the best performing model according to the metrics (accuracy score, f1-score)
@@ -38,7 +47,31 @@ The solution is to build a machine learning model that takes client attribuetes 
 
 ## Analysis
 
-* This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
+According to the last campaign.  The current model suggested to contact 98% of the database
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/current_model.png" width="350" height="350" />
+
+Out of this 98% only 11% subscribed
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/actuals.png" width="350" height="350" />
+
+The new model
+* Addresses the customer experience because it is only suggesting to contact 30% of the clients in the database
+* Reduces the bank’s efforts invested in marketing campaigns because the number of calls is reduced by a large amount
+* Reduces the opportunity cost of investing too many resources in a given campaign and allows agility in the execution
+
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/new_model.png" width="350" height="350" />
+
+currentvsnew
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/currentvsnew.png" width="700" height="350" />
+
+
+accuracy
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/accuracy.png" width="700" height="350" />
+
+
+unwanted
+<img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/new_model.png" width="700" height="280" />
+
 
 ---
 
@@ -58,13 +91,7 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 ## Executive Summary:
 
 
-* By replacing the current model the bank will reduce by 68% of the current marketing efforts invested in phone marketing campaigns
 
-* The new predictive model can help the bank to enhance the customer experience by saving  27,250 of the current clients receiving unwanted calls compared to the current model
-
-* Monday and Friday are the least ideal days of the week to generate client conversions compared to the rest of the weekdays.  The best days for contacting clients were Thursday, Tuesday, and Wednesday respectively
-
-* Clients who have converted in previous marketing campaigns might be significantly more receptive to a new marketing campaign 
 
 
 ---
