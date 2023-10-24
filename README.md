@@ -10,13 +10,31 @@ The European Bank uses telemarketing campaigns to promote their product Bank Ter
 
 ## Backgroung
 
-
+The European Bank uses telemarketing campaigns to promote their product Bank Term Deposit. The campaign has two possible outcomes: either the client will subscribe or will not subscribe.
 
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/1.png" width="550" height="550" />
 
+The challenges of a telemarketing campaign are three: 
+  
+  * here are limited resources in the contact center,
+  * The campaign should be deployed fast, and w
+  * We need to make sure the client experience does not suffer.
+
+The solution is to build a machine learning model that takes client attribuetes and helps us predict the propensity of a client to subscribe to a telemarketing campaign.
+
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/2.png" width="350" height="580" />
 
+## Overview of Approach
+
+1. Exploratory Data Analysis, Statistical Analysis, and Data Cleanse (Pandas, Seaborn, Matplotlib)
+2. Create New Predictive Models (scikit-learn, Logistic Regression, used resampling techniques to solve class imbalance)
+3. Chose the best performing model according to the metrics (accuracy score, f1-score)
+4. Naive Random Oversampling technique gave us the best performing model
+
 <img src= "https://github.com/NataliaVelasquez18/eurobank-saves-2M-in-marketing-budget/blob/main/Resources/3.png" width="510" height="300" />
+
+
+
 
 * This [Python file](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/Consumer_trends_EDA_and_Visualization.ipynb) contains a complete analysis and visualization of [Shein dataset](https://github.com/NataliaVelasquez18/shein-boosts-revenue-by-5M-yearly/blob/main/shopping_trends_updated.csv).
 
@@ -30,12 +48,7 @@ The purpose of this analysis is to help The European Bank to increase efficiency
 
 ---
 
-## Overview of Approach
 
-1. Exploratory Data Analysis, Statistical Analysis, and Data Cleanse (Pandas, Seaborn, Matplotlib)
-2. Create New Predictive Models (scikit-learn, Logistic Regression, used resampling techniques to solve class imbalance)
-3. Chose the best performing model according to the metrics (accuracy score, f1-score)
-4. Naive Random Oversampling technique gave us the best performing model
 
 
 ---
